@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>JenkinsDockerIntegration</artifactId>
+    <artifactId>jenkinsDockerIntegration</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <build>
-        <finalName>JenkinsDockerIntegration</finalName>
+        <finalName>jenkinsDockerIntegration</finalName>
     </build>
 
 </project>
